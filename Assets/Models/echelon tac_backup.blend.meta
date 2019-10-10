@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: f5ed26fe97faafe49a097104ee98ffad
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: bordo
+    100002: Casco
+    100004: Cube
+    100006: //RootNode
+    100008: Empty
+    100010: Frame
+    100012: generatore
+    100014: Lettino
+    100016: Luci_interne
+    100018: Maniglia_lettino
+    100020: mobili
+    100022: Porta
+    100024: Raccordo_cavi
+    100026: Stanza
+    100028: TAC
+    100030: TAC_base
+    400000: bordo
+    400002: Casco
+    400004: Cube
+    400006: //RootNode
+    400008: Empty
+    400010: Frame
+    400012: generatore
+    400014: Lettino
+    400016: Luci_interne
+    400018: Maniglia_lettino
+    400020: mobili
+    400022: Porta
+    400024: Raccordo_cavi
+    400026: Stanza
+    400028: TAC
+    400030: TAC_base
+    2100000: unnamed
+    2100002: 12_-_Default
+    2100004: Default
+    2100006: glass
+    2100008: luci_interne
+    2100010: Stanza
+    2100012: lettino-base
+    2100014: lettino-cuscino
+    2100016: TAC
+    2100018: TAC-base
+    2300000: bordo
+    2300002: Casco
+    2300004: Cube
+    2300006: Frame
+    2300008: generatore
+    2300010: Lettino
+    2300012: Luci_interne
+    2300014: Maniglia_lettino
+    2300016: mobili
+    2300018: Porta
+    2300020: Raccordo_cavi
+    2300022: Stanza
+    2300024: TAC
+    2300026: TAC_base
+    3300000: bordo
+    3300002: Casco
+    3300004: Cube
+    3300006: Frame
+    3300008: generatore
+    3300010: Lettino
+    3300012: Luci_interne
+    3300014: Maniglia_lettino
+    3300016: mobili
+    3300018: Porta
+    3300020: Raccordo_cavi
+    3300022: Stanza
+    3300024: TAC
+    3300026: TAC_base
+    4300000: Cube
+    4300002: Frame
+    4300004: Porta
+    4300006: mobili
+    4300008: bordo
+    4300010: Luci_interne
+    4300012: Casco
+    4300014: Stanza
+    4300016: Lettino
+    4300018: Maniglia_lettino
+    4300020: TAC
+    4300022: Raccordo_cavi
+    4300024: generatore
+    4300026: TAC_base
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

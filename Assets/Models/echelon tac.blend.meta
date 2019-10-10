@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 1d889b196be73e14f801acf9a0152c9c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Lettino
+    100004: Stanza
+    100006: TAC
+    100008: TAC_base
+    100010: Cylinder
+    100012: Cube
+    100014: Empty
+    100016: Casco
+    100018: Luci_interne
+    100020: MRI
+    100022: generatore
+    100024: Cube_001
+    100026: bordo
+    100028: mobili
+    100030: Lettino_001
+    100032: Maniglia_lettino
+    100034: Raccordo_cavi
+    100036: Frame
+    100038: Porta
+    100040: Empty_001
+    100042: Stanza_001
+    100044: Frame_001
+    100046: Porta_001
+    100048: Stanza_002
+    400000: //RootNode
+    400002: Lettino
+    400004: Stanza
+    400006: TAC
+    400008: TAC_base
+    400010: Cylinder
+    400012: Cube
+    400014: Empty
+    400016: Casco
+    400018: Luci_interne
+    400020: MRI
+    400022: generatore
+    400024: Cube_001
+    400026: bordo
+    400028: mobili
+    400030: Lettino_001
+    400032: Maniglia_lettino
+    400034: Raccordo_cavi
+    400036: Frame
+    400038: Porta
+    400040: Empty_001
+    400042: Stanza_001
+    400044: Frame_001
+    400046: Porta_001
+    400048: Stanza_002
+    2100000: Stanza__All
+    2100002: lettino-base__All
+    2100004: lettino-cuscino__All
+    2100006: TAC__All
+    2100008: TAC-base__All
+    2100010: Stanza
+    2100012: lettino-base
+    2100014: lettino-cuscino
+    2100016: TAC
+    2100018: TAC-base
+    2100020: unnamed
+    2100022: luci_interne
+    2100024: 12_-_Default
+    2100026: Default
+    2100028: glass
+    2100030: Corridoio
+    2300000: Lettino
+    2300002: Stanza
+    2300004: TAC
+    2300006: TAC_base
+    2300008: Cylinder
+    2300010: Cube
+    2300012: Casco
+    2300014: Luci_interne
+    2300016: MRI
+    2300018: generatore
+    2300020: Cube_001
+    2300022: bordo
+    2300024: mobili
+    2300026: Lettino_001
+    2300028: Maniglia_lettino
+    2300030: Raccordo_cavi
+    2300032: Frame
+    2300034: Porta
+    2300036: Stanza_001
+    2300038: Frame_001
+    2300040: Porta_001
+    2300042: Stanza_002
+    3300000: Lettino
+    3300002: Stanza
+    3300004: TAC
+    3300006: TAC_base
+    3300008: Cylinder
+    3300010: Cube
+    3300012: Casco
+    3300014: Luci_interne
+    3300016: MRI
+    3300018: generatore
+    3300020: Cube_001
+    3300022: bordo
+    3300024: mobili
+    3300026: Lettino_001
+    3300028: Maniglia_lettino
+    3300030: Raccordo_cavi
+    3300032: Frame
+    3300034: Porta
+    3300036: Stanza_001
+    3300038: Frame_001
+    3300040: Porta_001
+    3300042: Stanza_002
+    4300000: Stanza
+    4300002: Lettino
+    4300004: TAC
+    4300006: TAC_base
+    4300008: Cylinder
+    4300010: Cube
+    4300012: Luci_interne
+    4300014: Casco
+    4300016: MRI
+    4300018: generatore
+    4300020: Cube_001
+    4300022: mobili
+    4300024: bordo
+    4300026: Lettino_001
+    4300028: Maniglia_lettino
+    4300030: Raccordo_cavi
+    4300032: Frame
+    4300034: Porta
+    4300036: Stanza_001
+    4300038: Frame_001
+    4300040: Porta_001
+    4300042: Stanza_002
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corridoio
+    second: {fileID: 2100000, guid: bcace495fae7c604a85902ec51528e33, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 1
+    secondaryUVAreaDistortion: 1
+    secondaryUVHardAngle: 60
+    secondaryUVPackMargin: 32
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
