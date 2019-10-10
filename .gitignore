@@ -15,6 +15,12 @@
 
 # TextMesh Pro files
 [Aa]ssets/TextMesh*Pro/
+[Aa]ssets/SteamVR/
+/[Aa]ssets/SteamVR/
+[Aa]ssets/StreamingAssets/
+/[Aa]ssets/StreamingAssets/
+[Aa]ssets/SteamVR_Input/
+/[Aa]ssets/SteamVR_Input/
 
 # Visual Studio cache directory
 .vs/
@@ -55,5 +61,4 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
-/[Aa]ssets/SteamVR/
-/[Aa]ssets/StreamingAssets/
+
