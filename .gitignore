@@ -21,6 +21,8 @@
 /[Aa]ssets/StreamingAssets/
 [Aa]ssets/SteamVR_Input/
 /[Aa]ssets/SteamVR_Input/
+[Aa]ssets/SteamVR_Resources/
+/[Aa]ssets/SteamVR_Resources/
 
 # Visual Studio cache directory
 .vs/
