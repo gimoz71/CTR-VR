@@ -28,6 +28,7 @@ ModelImporter:
     100044: Frame_001
     100046: Porta_001
     100048: Stanza_002
+    100050: Cube_002
     400000: //RootNode
     400002: Lettino
     400004: Stanza
@@ -53,6 +54,7 @@ ModelImporter:
     400044: Frame_001
     400046: Porta_001
     400048: Stanza_002
+    400050: Cube_002
     2100000: Stanza__All
     2100002: lettino-base__All
     2100004: lettino-cuscino__All
@@ -69,6 +71,7 @@ ModelImporter:
     2100026: Default
     2100028: glass
     2100030: Corridoio
+    2100032: vetro
     2300000: Lettino
     2300002: Stanza
     2300004: TAC
@@ -91,6 +94,7 @@ ModelImporter:
     2300038: Frame_001
     2300040: Porta_001
     2300042: Stanza_002
+    2300044: Cube_002
     3300000: Lettino
     3300002: Stanza
     3300004: TAC
@@ -113,6 +117,7 @@ ModelImporter:
     3300038: Frame_001
     3300040: Porta_001
     3300042: Stanza_002
+    3300044: Cube_002
     4300000: Stanza
     4300002: Lettino
     4300004: TAC
@@ -135,6 +140,7 @@ ModelImporter:
     4300038: Frame_001
     4300040: Porta_001
     4300042: Stanza_002
+    4300044: Cube_002
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs
@@ -144,6 +150,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Corridoio
     second: {fileID: 2100000, guid: bcace495fae7c604a85902ec51528e33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: vetro
+    second: {fileID: 2100000, guid: f55f45c17c6662b4e9f876e1f88e420c, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
