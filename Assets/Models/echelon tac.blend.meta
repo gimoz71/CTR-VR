@@ -29,6 +29,21 @@ ModelImporter:
     100046: Porta_001
     100048: Stanza_002
     100050: Cube_002
+    100052: Cube_003
+    100054: mobili_001
+    100056: mobili_002
+    100058: Corridoio
+    100060: finestra
+    100062: mobilino
+    100064: porta
+    100066: RMN
+    100068: scrivania
+    100070: Stanzino
+    100072: tappetino_stanzino
+    100074: tappeto_corridoio
+    100076: telaio_porta_rmn
+    100078: telaio_porta_stanzino
+    100080: vetro_finestra
     400000: //RootNode
     400002: Lettino
     400004: Stanza
@@ -55,6 +70,21 @@ ModelImporter:
     400046: Porta_001
     400048: Stanza_002
     400050: Cube_002
+    400052: Cube_003
+    400054: mobili_001
+    400056: mobili_002
+    400058: Corridoio
+    400060: finestra
+    400062: mobilino
+    400064: porta
+    400066: RMN
+    400068: scrivania
+    400070: Stanzino
+    400072: tappetino_stanzino
+    400074: tappeto_corridoio
+    400076: telaio_porta_rmn
+    400078: telaio_porta_stanzino
+    400080: vetro_finestra
     2100000: Stanza__All
     2100002: lettino-base__All
     2100004: lettino-cuscino__All
@@ -95,6 +125,21 @@ ModelImporter:
     2300040: Porta_001
     2300042: Stanza_002
     2300044: Cube_002
+    2300046: Cube_003
+    2300048: mobili_001
+    2300050: mobili_002
+    2300052: Corridoio
+    2300054: finestra
+    2300056: mobilino
+    2300058: porta
+    2300060: RMN
+    2300062: scrivania
+    2300064: Stanzino
+    2300066: tappetino_stanzino
+    2300068: tappeto_corridoio
+    2300070: telaio_porta_rmn
+    2300072: telaio_porta_stanzino
+    2300074: vetro_finestra
     3300000: Lettino
     3300002: Stanza
     3300004: TAC
@@ -118,6 +163,21 @@ ModelImporter:
     3300040: Porta_001
     3300042: Stanza_002
     3300044: Cube_002
+    3300046: Cube_003
+    3300048: mobili_001
+    3300050: mobili_002
+    3300052: Corridoio
+    3300054: finestra
+    3300056: mobilino
+    3300058: porta
+    3300060: RMN
+    3300062: scrivania
+    3300064: Stanzino
+    3300066: tappetino_stanzino
+    3300068: tappeto_corridoio
+    3300070: telaio_porta_rmn
+    3300072: telaio_porta_stanzino
+    3300074: vetro_finestra
     4300000: Stanza
     4300002: Lettino
     4300004: TAC
@@ -141,6 +201,21 @@ ModelImporter:
     4300040: Porta_001
     4300042: Stanza_002
     4300044: Cube_002
+    4300046: mobili_002
+    4300048: mobili_001
+    4300050: Cube_003
+    4300052: mobilino
+    4300054: scrivania
+    4300056: vetro_finestra
+    4300058: finestra
+    4300060: tappetino_stanzino
+    4300062: Stanzino
+    4300064: tappeto_corridoio
+    4300066: telaio_porta_stanzino
+    4300068: porta
+    4300070: Corridoio
+    4300072: telaio_porta_rmn
+    4300074: RMN
     7400000: Default Take
     9500000: //RootNode
     2186277476908879412: ImportLogs

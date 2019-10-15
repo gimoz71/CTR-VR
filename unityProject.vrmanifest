@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.tac.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "E:\\Marte5 - progetti\\projects\\VR\\CTR\\Unity\\CTR VR\\actions.json",
+      "action_manifest_path": "E:\\Marte5 - progetti\\projects\\VR\\CTR\\Unity\\CTR VR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
           "name": "TAC [Testing]"
