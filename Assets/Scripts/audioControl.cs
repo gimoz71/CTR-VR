@@ -13,7 +13,7 @@ public class audioControl : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        label.text = "Avvia";
+        label.text = "Avvia RMN";
     }
 
     // Update is called once per frame
@@ -28,13 +28,13 @@ public class audioControl : MonoBehaviour
         {
             //Debug.Log("AVVIATO");
             rumore.Play();
-            label.text = "Spegni";
+            label.text = "STOP";
             on = true;
         } else
         {
             //Debug.Log("SPENTO");
             rumore.Stop();
-            label.text = "Avvia";
+            label.text = "START";
             on = false;
         }
     }
