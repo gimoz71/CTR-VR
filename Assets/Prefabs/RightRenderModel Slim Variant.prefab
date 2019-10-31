@@ -9,7 +9,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1000012617731570, guid: 837f93beb9a614743ae3a2c0ada7c388, type: 3}
       propertyPath: m_Name
-      value: RightRenderModel Slim
+      value: RightRenderModel Slim Variant
       objectReference: {fileID: 0}
     - target: {fileID: 4000012506454532, guid: 837f93beb9a614743ae3a2c0ada7c388, type: 3}
       propertyPath: m_LocalPosition.x
@@ -54,6 +54,16 @@ PrefabInstance:
     - target: {fileID: 4000012506454532, guid: 837f93beb9a614743ae3a2c0ada7c388, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000011075384662, guid: 837f93beb9a614743ae3a2c0ada7c388,
+        type: 3}
+      propertyPath: displayHandByDefault
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114000011075384662, guid: 837f93beb9a614743ae3a2c0ada7c388,
+        type: 3}
+      propertyPath: displayControllerByDefault
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 837f93beb9a614743ae3a2c0ada7c388, type: 3}
