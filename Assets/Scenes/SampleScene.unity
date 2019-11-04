@@ -1751,8 +1751,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 983992876}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -5.804, y: 1.393, z: 2.9}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalPosition: {x: -5.764, y: 1.393, z: 2.9}
+  m_LocalScale: {x: 1, y: 1.2511, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 5
@@ -2358,7 +2358,7 @@ Transform:
   m_GameObject: {fileID: 1288919554}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -1.877, y: 1.393, z: 2.073}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1.3473, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -4450,13 +4450,33 @@ PrefabInstance:
     - target: {fileID: 4201105224204240783, guid: 62ed1213b86f2ff48ac0595e9876aa15,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 0
+      value: 4294967295
       objectReference: {fileID: 0}
     - target: {fileID: 4201105224204240769, guid: 62ed1213b86f2ff48ac0595e9876aa15,
         type: 3}
       propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4201105224204240781, guid: 62ed1213b86f2ff48ac0595e9876aa15,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
       value: 4294967295
       objectReference: {fileID: 0}
+    - target: {fileID: 4201105224202049993, guid: 62ed1213b86f2ff48ac0595e9876aa15,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9044cc0b843a4e64f8c463683fc093fb, type: 2}
+    - target: {fileID: 4201105224202049997, guid: 62ed1213b86f2ff48ac0595e9876aa15,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9044cc0b843a4e64f8c463683fc093fb, type: 2}
+    - target: {fileID: 4201105224202049999, guid: 62ed1213b86f2ff48ac0595e9876aa15,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9044cc0b843a4e64f8c463683fc093fb, type: 2}
     m_RemovedComponents:
     - {fileID: 872386459, guid: 62ed1213b86f2ff48ac0595e9876aa15, type: 3}
     - {fileID: 1849781120, guid: 62ed1213b86f2ff48ac0595e9876aa15, type: 3}
