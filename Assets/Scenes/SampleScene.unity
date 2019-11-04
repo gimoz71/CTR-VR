@@ -280,7 +280,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &130911204
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -836,6 +836,25 @@ PrefabInstance:
       propertyPath: m_HDR
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 11465950, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
+      propertyPath: allowToggleTo2D
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 11450312, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
+      propertyPath: renderModelPrefab
+      value: 
+      objectReference: {fileID: 2547427102542660794, guid: c0d8007cf2f46af48a43fac2a3a7061a,
+        type: 3}
+    - target: {fileID: 11401046, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
+      propertyPath: renderModelPrefab
+      value: 
+      objectReference: {fileID: 4447010431124501488, guid: 9ff4d2896da85e540abf13ba06d2ff01,
+        type: 3}
+    - target: {fileID: 114000012749712888, guid: dc06161b6d97feb419f45f03b62e14b9,
+        type: 3}
+      propertyPath: doNotDestroy
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: dc06161b6d97feb419f45f03b62e14b9, type: 3}
 --- !u!1 &348073284 stripped
@@ -1158,7 +1177,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &610290675
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1410,7 +1429,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!114 &782198434
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2179,21 +2198,21 @@ LightProbeGroup:
   m_GameObject: {fileID: 983992876}
   m_Enabled: 1
   m_SourcePositions:
-  - {x: -0.24123812, y: 1, z: 1.1484742}
-  - {x: 0.37827826, y: 1, z: 0.23741007}
-  - {x: -0.24123812, y: 0.09874821, z: 1.1484742}
-  - {x: 0.37827826, y: 0.09874821, z: 0.23741007}
-  - {x: -1.090323, y: 1, z: 0.88621926}
-  - {x: -0.40838957, y: 1, z: 0.023041487}
-  - {x: -1.090323, y: 0.09874821, z: 0.88621926}
-  - {x: -0.40838957, y: 0.09874821, z: 0.023041487}
-  - {x: -1.090323, y: -1, z: 0.88621926}
-  - {x: -0.24123812, y: -1, z: 1.1484742}
-  - {x: 0.37827826, y: -1, z: 0.23741007}
-  - {x: -0.40838957, y: -1, z: 0.023041487}
-  - {x: -1.0573144, y: 1, z: -0.2654364}
-  - {x: -1.0573144, y: 0.09874821, z: -0.2654364}
-  - {x: -1.0573144, y: -1, z: -0.2654364}
+  - {x: 1.9210632, y: 1, z: 1.1484742}
+  - {x: 2.5405796, y: 1, z: 0.23741007}
+  - {x: 1.9210632, y: 0.09874821, z: 1.1484742}
+  - {x: 2.5405796, y: 0.09874821, z: 0.23741007}
+  - {x: 1.0719783, y: 1, z: 0.88621926}
+  - {x: 1.7539117, y: 1, z: 0.023041487}
+  - {x: 1.0719783, y: 0.09874821, z: 0.88621926}
+  - {x: 1.7539117, y: 0.09874821, z: 0.023041487}
+  - {x: 1.0719783, y: -1, z: 0.88621926}
+  - {x: 1.9210632, y: -1, z: 1.1484742}
+  - {x: 2.5405796, y: -1, z: 0.23741007}
+  - {x: 1.7539117, y: -1, z: 0.023041487}
+  - {x: 1.1049869, y: 1, z: -0.2654364}
+  - {x: 1.1049869, y: 0.09874821, z: -0.2654364}
+  - {x: 1.1049869, y: -1, z: -0.2654364}
   m_Dering: 1
 --- !u!4 &983992878
 Transform:
@@ -3807,7 +3826,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 153878, guid: 7a135b1a2cb9c8f488d4dd00c55ab283, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 475244, guid: 7a135b1a2cb9c8f488d4dd00c55ab283, type: 3}
       propertyPath: m_LocalPosition.x
@@ -5103,6 +5122,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4201105224204240783, guid: 62ed1213b86f2ff48ac0595e9876aa15,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4201105224204240769, guid: 62ed1213b86f2ff48ac0595e9876aa15,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 4294967295
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 62ed1213b86f2ff48ac0595e9876aa15, type: 3}
