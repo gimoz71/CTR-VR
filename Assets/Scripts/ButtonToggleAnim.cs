@@ -11,12 +11,18 @@ public class ButtonToggleAnim : MonoBehaviour
     public Animator object1;
     public Text label;
 
+    public string labelOne;
+    public string labelTwo;
+    public string triggerZero;
+    public string triggerOne;
+    public string triggerTwo;
+
 
     // Use this for initialization
     void Start()
     {
         object1.speed = 1;
-        label.text = "IN";
+        label.text = labelOne;
     }
 
 
@@ -24,7 +30,7 @@ public class ButtonToggleAnim : MonoBehaviour
     {
         if (toggleStart == true)
         {
-            object1.SetTrigger("idle");
+            object1.SetTrigger(triggerZero);
             
             toggleStart = false;
         }
@@ -33,18 +39,18 @@ public class ButtonToggleAnim : MonoBehaviour
 
         if (toggleState == true)
         {
-            object1.ResetTrigger("in");
-            object1.SetTrigger("out");
+            object1.ResetTrigger(triggerOne);
+            object1.SetTrigger(triggerTwo);
 
-            label.text = "OUT";
+            label.text = labelTwo;
             toggleState = false;
         }
         else
         {
-            object1.SetTrigger("in");
-            object1.ResetTrigger("out");
+            object1.SetTrigger(triggerOne);
+            object1.ResetTrigger(triggerTwo);
 
-            label.text = "IN";
+            label.text = labelOne;
             toggleState = true;
         }
     }
